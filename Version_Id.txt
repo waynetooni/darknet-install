@@ -1,0 +1,23 @@
+Cuda7.3.0 cuda10.0 1FnAuVQKB07bOco0eHxoitNrutbV9b9Hq
+Cuda7.3.1 cuda10.0 10fA5He6jvtGrBWdcqmxu3S0yEsQfThP9
+Cuda7.4.1 cuda10.0 1BIGMG26ORYwfa_IzePDRZ5Gk0yocHW6T
+Cuda7.4.2 cuda10.0 13PUVDQNmWEFNL_4sxBZgCnNHGneS4caL
+Cuda7.5.0 cuda10.0 1SRKy7ApsD8Nx3UMfcahnKhGj055Qn9TK
+Cuda7.5.0 cuda10.1 1nX6k7i5ecmUBmQFb8Slqpghsr1Z5u3OK
+Cuda7.5.1 cuda10.0 1UjNE8r9XfMjC8QsRFmPllLqB7p1RKyi5
+Cuda7.6.0 cuda10.0 1SptXee8rQnbYIw0TI26gJjaiGBvB4oLL 
+Cuda7.6.0 cuda10.1 1a-XVMBfgg7IZiR0MufOdVnePqvjLZWVJ
+Cuda7.6.1 cuda10.0 1puCmYXJV2VrsE3jqFUq0o682AHXdHukY
+Cuda7.6.1 cuda10.1 1R55qJ7XWzFlpgk03Z6no183p_XN_MLtB
+Cuda7.6.2 cuda10.0 1AAwwPxHaoKfPinD1S2JeknIHj4F_Vmi6
+Cuda7.6.2 cuda10.1 1iAi90KT95Ad5yQUYkUNk3aPB_IFaoYEW
+Cuda7.6.3 cuda10.0 17H1uNdItUFD-i6ReASpX_IqM-7AIHbLh
+Cuda7.6.3 cuda10.1 1WGofH9TnE3haJOUAGgVTDC5Ms1NzPho-
+Cuda7.6.4 cuda10.0 1j1Bwn2qp_gqyzHIs0m3F4xzxpT6vfwaQ
+Cuda7.6.4 cuda10.1 19GFuYgj8ty1Vq1Ex-LTZVWKficKAGCKL
+Cuda7.6.5 cuda10.0 1oUOQQKZfg9ZGfEMe4ZUbeQ90WZO1-lqe
+Cuda7.6.5 cuda10.1 1dP2jlSAhzOWt_FKY8tfzN9NPAsXY0ylp
+Cuda7.6.5 cuda10.2 1EMbHQ-fnvdnZd4hKmMFhD5mu34kjiUnd
+Cuda8.0.2 cuda10.1 1nrTMjzmqDsK9BDwl8w9zkwlfpRn2wpeB
+Cuda8.0.2 cuda10.2 1MZLkYGSFwK6XBqhxt3Y2b9753-qmmw5s
+
